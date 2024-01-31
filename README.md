@@ -7,5 +7,5 @@ For a full list of patch notes, refer to the [Patch Notes](PatchNotes.md) page.
 
 The latest version of Enhanced SCDA Online can be found in the [Releases](https://github.com/Joshhhuaaa/EnhancedSCDAOnline/releases) page. Please note that versions of Enhanced SCDA Online are not compatible with the default version of the game or previous Enhanced versions.
 
-- Run the game executable, `SCDA_Online.exe` in the System folder to begin playing.
-- If experiencing an error on startup, try running `DXSetup.exe` in the `Installers\DirectX` directory.
+- Run the game executable, `SCDA_online.exe` in the System folder to begin playing.
+- If experiencing an error on startup, try running `DXSETUP.exe` in the `Installers\DirectX` directory.
