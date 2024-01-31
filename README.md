@@ -15,7 +15,7 @@ Enhanced SCDA Versus comes included with [ThirteenAG's d3d9-wrapper](https://git
 - If experiencing an error on startup, try running `DXSETUP.exe` in the `Installers\DirectX` directory.
 
 ## Playing Online
-Ubisoft discontinued Double Agent's servers in June 2016. However, the multiplayer is still playable when using Virtual LAN applications. The most common method in the community currently is to use [Radmin VPN](https://www.radmin-vpn.com/). It's easy to set up, and there's no need for account creation.
+Ubisoft discontinued Double Agent's servers in June 2016. However, the multiplayer is still playable when using virtual LAN applications. The most common method in the community currently is to use [Radmin VPN](https://www.radmin-vpn.com/). It's easy to set up, and there's no need for account creation.
 
 - Once Radmin VPN is installed, select "Network" > "Join Network." A window will appear, click on the "Gaming Network" tab, and join the `Splinter Cell D. A.` network.
 - If you would like to change your username on Radmin VPN, select "System" > "Change Name" or simply double-click your username.
