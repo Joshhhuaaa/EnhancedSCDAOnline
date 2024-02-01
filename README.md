@@ -14,6 +14,9 @@ Enhanced SCDA Versus comes included with [ThirteenAG's d3d9-wrapper](https://git
 - Run the game executable, `SCDA_online.exe` in the System folder to begin playing.
 - If experiencing an error on startup, try running `DXSETUP.exe` in the `Installers\DirectX` directory.
 
+### Mouse Polling Rate
+Many mice now offer polling rates of 1000 Hz or higher. However, in SCDA Online, higher polling rates may cause issues with your mouse aim. If your mouse allows it, try setting the polling rate to 125 Hz through software.
+
 ## Playing Online
 Ubisoft discontinued Double Agent's servers in June 2016. However, the multiplayer is still playable when using virtual LAN applications. The most common method in the community currently is to use [Radmin VPN](https://www.radmin-vpn.com/). It's easy to set up, and there's no need for account creation.
 
