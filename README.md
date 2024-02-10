@@ -1,5 +1,5 @@
 # Enhanced SCDA Online
-A major patch for Splinter Cell: Double Agent's Versus mode, addressing bugs, exploits, and enhancing gameplay and map balance.
+A major patch for Splinter Cell: Double Agent's Online mode, fixing bugs and exploits while improving gameplay and map balance.
 
 For a full list of patch notes, refer to the [Patch Notes](PatchNotes.md) page.
 
