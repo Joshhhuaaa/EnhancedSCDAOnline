@@ -40,11 +40,11 @@
   - Helicopter in the Spy insertion point has been restored from the Xbox 360 version.
 ---
 - Motorway 90:
-  - *Bug fixed:* A visual bug in Thermal / EMF vision near the Upsilon Force spawn.
-  - *Bug fixed:* A visual bug outside the gate by Blue Terminal.
   - Removed emergency lights near Yellow Terminal's outside catwalk.
   - Removed emergency light near Yellow Terminal's exit door to the ECC.
   - Removed light near the second floor's top vent in Yellow Terminal.
+  - *Bug fixed:* A visual bug in Thermal / EMF vision near the Upsilon Force spawn.
+  - *Bug fixed:* A visual bug outside the gate by Blue Terminal.
 ---
 - Red Diamond:
   - Blue Terminal has been placed more towards the wall to prevent performing a 3-bar in the ceiling.
