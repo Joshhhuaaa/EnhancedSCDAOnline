@@ -40,8 +40,8 @@
   - Helicopter in the Spy insertion point has been restored from the Xbox 360 version.
 ---
 - Motorway 90:
-  - Fixed a visual bug in Thermal / EMF vision near the Upsilon Force spawn.
-  - Fixed a visual bug outside the gate by Blue Terminal.
+  - *Bug fixed:* A visual bug in Thermal / EMF vision near the Upsilon Force spawn.
+  - *Bug fixed:* A visual bug outside the gate by Blue Terminal.
   - Removed emergency lights near Yellow Terminal's outside catwalk.
   - Removed emergency light near Yellow Terminal's exit door to the ECC.
   - Removed light near the second floor's top vent in Yellow Terminal.
@@ -57,7 +57,7 @@
 ---
 - Slaughterhouse:
   - A box has been moved to prevent hacking Blue Terminal through the small gap in the underground.
-  - Removed a useless “Disable Light” interaction in the Spy insertion point.
+  - *Bug fixed:* Removed a useless “Disable Light” interaction in the Spy insertion point.
 ---
 - USS Wisdom:
   - Red Terminal has been moved to a new downward position to prevent hacking through the small gap in the vent.
