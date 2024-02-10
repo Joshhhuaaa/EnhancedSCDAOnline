@@ -9,7 +9,7 @@ The latest version of Enhanced SCDA Online can be found in the [Releases](https:
 
 ### Game Setup
 
-Enhanced SCDA Versus comes included with [ThirteenAG's d3d9-wrapper](https://github.com/ThirteenAG/d3d9-wrapper), this wrapper is used to cap the game's frame rate to 60. It is highly recommended to keep it at 60, both movement and aiming can feel worse on higher frame rates.
+Enhanced SCDA Online comes included with [ThirteenAG's d3d9-wrapper](https://github.com/ThirteenAG/d3d9-wrapper), this wrapper is used to cap the game's frame rate to 60. It is highly recommended to keep it at 60, both movement and aiming can feel worse on higher frame rates.
 
 - Run the game executable, `SCDA_online.exe` in the System folder to begin playing.
 - If experiencing an error on startup, try running `DXSETUP.exe` in the `Installers\DirectX` directory.
