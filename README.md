@@ -11,9 +11,10 @@ The latest version of Enhanced SCDA Online can be found in the [Releases](https:
 
 Enhanced SCDA Online comes included with [ThirteenAG's d3d9-wrapper](https://github.com/ThirteenAG/d3d9-wrapper), this wrapper is used to cap the game's frame rate to 60. It is highly recommended to keep it at 60, both movement and aiming can feel worse on higher frame rates.
 
-- After downloading Enhanced SCDA Online, extract the contents, and you should have a Enhanced SCDA Online folder. You can place it anywhere you like, it's portable.
-- Run the game executable, `SCDA_online.exe` in the System folder to begin playing.
-- If experiencing an error on startup, try running `DXSETUP.exe` in the `Installers\DirectX` directory.
+- After downloading Enhanced SCDA Online, extract the contents. You will then have an Enhanced SCDA Online folder, which you can place anywhere you like since it's portable.
+- Run the game executable, `SCDA_Online.exe` in the System folder to begin playing.
+  - If experiencing an error on startup, try running `DXSETUP.exe` in the `Installers\DirectX` directory.
+  - If experiencing a crash while loading into the main menu, ensure you have a recording device, such as a microphone or headset, plugged in.
 
 ### Mouse Polling Rate
 Many mice now offer polling rates of 1000 Hz or higher. However, in SCDA Online, higher polling rates may cause issues with your mouse aim. If your mouse allows it, try setting the polling rate to 125 Hz through software.
