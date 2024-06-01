@@ -22,7 +22,7 @@
 - The helmet borders and EMF bars present on Upsilon Force HUD have been removed.
 	
 ### Miscellaneous
-- A script has been included to cap the framerate at 60 during menus and gameplay, preventing issues caused by extremely high framerates. It can be configured using `Enhanced.ini` in the System subfolder.
+- A DirectX9 wrapper has been included to cap the framerate to 60 to prevent issues caused by extremely high framerates.
 - High Quality Transparency has been enabled by default in the configuration file.
 - Modern resolution support added from 1600x900, 1920x1080, 2560x1440, and 3840x2160.
 - Female Spies have been activated in the Skins selection menu.
