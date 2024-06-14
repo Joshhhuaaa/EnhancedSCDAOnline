@@ -18,7 +18,11 @@ Enhanced SCDA Online includes [ThirteenAG's d3d9-wrapper](https://github.com/Thi
 Many mice now offer polling rates of 1000 Hz or higher. However, in SCDA Online, higher polling rates may cause issues with your mouse aim. If your mouse allows it, try setting the polling rate to 125 Hz through software.
 
 ## Playing Online
-Ubisoft discontinued Double Agent's servers in June 2016. However, the multiplayer is still playable when using virtual LAN applications. The most common method in the community currently is to use [Radmin VPN](https://www.radmin-vpn.com/). It's easy to set up, and there's no need for account creation.
+Ubisoft discontinued Double Agent's servers in June 2016. However, the multiplayer is still playable using a custom server.
 
-- Once Radmin VPN is installed, select "Network" > "Join Network." A window will appear, click on the "Gaming Network" tab, and join the `Splinter Cell D. A.` network.
-- If you would like to change your username on Radmin VPN, select "System" > "Change Name" or simply double-click your username.
+Starting with Enhanced SCDA Online v2.2, the game is updated with a new experimental custom server for online play. No third-party programs are needed to play online.
+
+- There is no account database, so all online accounts are temporary. **Do not use real passwords, as these accounts are not intended to be secure.**
+- To log in, enter your username, set the password to `123456`, and set the CD-Key: `SC4-XXXX-XXXX-XXXX-XXXX`. 
+
+Currently, Leaderboards and Squads have not been implemented due to not having an account system in place.
