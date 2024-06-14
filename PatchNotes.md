@@ -22,6 +22,7 @@
 - The helmet borders and EMF bars present on Upsilon Force HUD have been removed.
 	
 ### Miscellaneous
+- The game is updated with a new experimental custom server for online play. No third-party programs are needed to play online.
 - A DirectX9 wrapper has been included to cap the framerate to 60 to prevent issues caused by extremely high framerates.
 - High Quality Transparency has been enabled by default in the configuration file.
 - Modern resolution support added from 1600x900, 1920x1080, 2560x1440, and 3840x2160.
