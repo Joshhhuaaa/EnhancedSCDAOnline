@@ -23,7 +23,8 @@
 	
 ### Miscellaneous
 - The game is updated with a new experimental custom server for online play. No third-party programs are needed to play online.
-- A DirectX9 wrapper has been included to cap the framerate to 60 to prevent issues caused by extremely high framerates.
+- A script has been included to cap the game's frame rate at 60 FPS during gameplay and menus, while loading screens remain uncapped. This can be configured by editing `Enhanced.ini` in the System folder.
+  - This doesn't always fix the Endless Loading bug. If you hear sounds during a loading screen, such as lobby music when starting a game or ambient sounds from a map when returning to the lobby, press `Ctrl+Alt+Delete` and then press `Esc` to force the game to load. If no sound is present on the loading screen, it should load normally.
 - High Quality Transparency has been enabled by default in the configuration file.
 - Modern resolution support added from 1600x900, 1920x1080, 2560x1440, and 3840x2160.
 - Female Spies have been activated in the Skins selection menu.
