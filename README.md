@@ -13,6 +13,9 @@ Enhanced SCDA Online includes [ThirteenAG's d3d9-wrapper](https://github.com/Thi
 - Run the game executable, `SCDA_Online.exe` in the System folder to begin playing.
   - If experiencing an error on startup, try running `DXSETUP.exe` in the `Installers\DirectX` directory.
   - If experiencing a crash while loading into the main menu, ensure you have a recording device, such as a microphone or headset, plugged in.
+- A script has been included to cap the game's frame rate at 60 FPS during gameplay and menus, while loading screens remain uncapped. This can be configured by editing `Enhanced.ini` in the System folder.
+  - While loading screens are no longer endless with this script, if sound is playing during them, they may last longer and could potentially result in disconnection if left on the loading screen for an extended period when connected with other players.
+  - If you hear sounds during a loading screen, such as lobby music when the game gets started or ambient sounds from a map when returning to lobby, press `Ctrl+Alt+Delete`, then press `Esc` to force the game to load. Loading should work normally if no sound is present on the loading screen.
 
 ### Mouse Polling Rate
 Many mice now offer polling rates of 1000 Hz or higher. However, in SCDA Online, higher polling rates may cause issues with your mouse aim. If your mouse allows it, try setting the polling rate to 125 Hz through software.
