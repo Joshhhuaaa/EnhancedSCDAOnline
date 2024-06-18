@@ -26,4 +26,6 @@ Starting with Enhanced SCDA Online v2.2, the game is updated with a new experime
 - There is no account database, so all online accounts are temporary. **Do not use real passwords, as these accounts are not intended to be secure.**
 - To log in, enter your username, set the password to `123456`, and set the CD-Key: `SC4-XXXX-XXXX-XXXX-XXXX`. 
 
+<img src="Images/OnlineLogin.png" width="768">
+
 Currently, Leaderboards and Squads have not been implemented due to not having an account system in place.
