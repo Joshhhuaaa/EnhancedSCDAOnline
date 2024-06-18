@@ -29,7 +29,7 @@
 - Female Spies have been activated in the Skins selection menu.
 	- Note: In the PC version, Female Spies are bugged. When using a throwable gadget such as Flash Grenades or Smoke Grenades while in the air, it will not spawn at your character but instead at the origin point (0,0,0) on the map.
 - Bonus and Help Videos have been removed to save disk space.
-- Profiles can easily be accessed using the shortcut added in the System subfolder.
+- Profiles can easily be accessed using the shortcut added in the System folder.
 - Xbox control binds have been set automatically for newly created profiles.
 
 ### Maps
