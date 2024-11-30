@@ -3,6 +3,8 @@ A major patch for Splinter Cell: Double Agent's Online mode, fixing bugs and exp
 
 For a full list of patch notes, refer to the [Patch Notes](PatchNotes.md) page.
 
+[![Discord](https://img.shields.io/discord/934536491420508281?color=%237289DA&label=Members&logo=discord&logoColor=white)](https://discord.gg/rmBp94uR58)
+
 ## Installation
 The latest version of Enhanced SCDA Online can be found in the [Releases](https://github.com/Joshhhuaaa/EnhancedSCDAOnline/releases) page. Please note that versions of Enhanced SCDA Online are not compatible with the default version of the game or previous Enhanced versions.
 
