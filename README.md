@@ -33,4 +33,4 @@ Starting with Enhanced SCDA Online v2.2, the game is updated with a new experime
 Currently, Leaderboards and Squads have not been implemented due to not having an account system in place.
 
 > [!IMPORTANT]  
-> If you downloaded Enhanced SCDA Online v2.2 before November 14th, 2024, you'll need to redownload the game to reconnect to the online servers, as the custom server has moved to a new domain.
+> If you downloaded Enhanced SCDA Online v2.2 before March 19th, 2026, the custom server has moved to a new domain. The old domain will remain supported for a limited time, after which updating will be required to continue accessing online servers.
